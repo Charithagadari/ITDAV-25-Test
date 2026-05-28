@@ -1,9 +1,0 @@
-Person
-Rider
-Bicycle
-Motorcycle
-Car
-Bus
-Stray Animal
-Heavy Vehicle
-Electric Rickshaw
